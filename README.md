@@ -5,44 +5,43 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">Here are some of the technologies I work with:</p>
-
-### Frontend
 <p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
-</p>
+  <h2>🛠️ Tech Stack</h2>
+  <p>Here are some of the technologies I work with:</p>
 
-### Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
-</p>
+  <h3>Frontend</h3>
+  <p>
+    <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React" />
+    <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
+  </p>
 
-### Styling
-<p align="center">
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
-</p>
+  <h3>Backend</h3>
+  <p>
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
+  </p>
 
----
-
-## 🌱 About Me
-
-<p align="center">
-- 🎓 <strong>Systems Engineering Student</strong><br>
-- 🖥️ <strong>Full Stack Developer</strong> with a strong focus on building functional and scalable applications.<br>
-- 💡 Constantly exploring new technologies and methodologies.
+  <h3>Styling</h3>
+  <p>
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
+  </p>
 </p>
 
 ---
 
-## 📫 Contact Me
+<p align="center">
+  <h2>🌱 About Me</h2>
+  🎓 <strong>Systems Engineering Student</strong><br>
+  🖥️ <strong>Full Stack Developer</strong> with a strong focus on building functional and scalable applications.<br>
+  💡 Constantly exploring new technologies and methodologies.
+</p>
+
+---
 
 <p align="center">
+  <h2>📫 Contact Me</h2>
   <a href="https://www.linkedin.com/in/maximiliano-nievas-arias/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
@@ -53,4 +52,6 @@
 
 ---
 
-<p align="center">Thanks for visiting! 😊 Feel free to explore my repositories and connect with me!</p>
+<p align="center">
+  Thanks for visiting! 😊 Feel free to explore my repositories and connect with me!
+</p>
