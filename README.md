@@ -33,10 +33,8 @@ Here are some of the technologies I work with:
 
 ## 📫 Contact Me
 
-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)(https://www.linkedin.com/in/maximiliano-nievas-arias/)  
-- 📧 **Email:** [mnievasarias02@gmail.com
-](mnievasarias02@gmail.com
-)
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square) [LinkedIn Profile](https://www.linkedin.com/in/maximiliano-nievas-arias/)  
+- 📧 **Email:** [mnievasarias02@gmail.com](mailto:mnievasarias02@gmail.com)
 
 ---
 
